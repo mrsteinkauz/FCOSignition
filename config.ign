@@ -1,0 +1,16 @@
+{
+  "ignition": {
+    "version": "3.0.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "passwordHash": "$1$+i1#1svK$q/9y7uM5WgYNEv4mZK.mj/",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDG+Zs6qXJr4livP+U05Ob/D01/i0k8HaKW6twjudPExyoRZpOchJjTHpX96cS1oB/C3wdG1JnF6DP++iJmwwasndcRPYk/SIHdZKAbx00vSm1Kusc08TWzyOzPx3VgDAWJV/KyJ1qKoW0yhIFWyIyeENwqVCusNeoaC1LK/J0prh2lOYf8YxQfisxFe/8pf2LJhzzBEGJdcQS+VHAQB74O/GSIaVAs0ZWIECreMyyGmpdGNvJu1t9bR0Sdc5HU/JXt75aIt13uQZD28E8vvOsNuAP519MIsZy5prwVsN67RAg0Fc3oAqd0vtMWf21+73AOnOAfxMWmOva564Ex39hNcIh/+2dX7rGOgTy0vRqtftIOlLKk8WFVLOoF0D9Q+naIXdBcTB1TLXrAEM96jAHplbNQtTT+4QXN4g16LlcCdIASg9ZJ67OcmAURr2KctvzhN164r+VzWnmTkHEjd/Uu2+0/E/urNXqTDxvk4sKr0ODiifLBnQ9aen5nIAS/KP8= thomas.gerger@monolith.fedora"
+        ]
+      }
+    ]
+  }
+}
